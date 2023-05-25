@@ -5,6 +5,7 @@ pub struct BankModel
 	pub user_password: String,
 	user_balance: usize
 }
+
 impl BankModel
 {
 	//	Initializer.
